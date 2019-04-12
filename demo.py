@@ -4,7 +4,7 @@ import sys
 import os
 import shutil
 import json
-import wget
+#import wget
 
 
 def update_dir(directory):
@@ -18,7 +18,9 @@ SECS_TO_SLEEP_BETWEEN_VIDEOS = 2
 SECS_TO_SLEEP_BETWEEN_BATCHES = 2
 #VIDEOS_DIR = "/Users/icecream/tiktok_download/download/videos"
 #INFOS_DIR = "/Users/icecream/tiktok_download/download/infos"
-TAGS_DIR = "/Users/icecream/tiktok_download/download/tags"
+#TAGS_DIR = "/Users/icecream/tiktok_download/download/tags"
+TAGS_DIR = "/Users/onaga/Documents/Pasheda_likes_football/download_tiktok/Leshka_best_proger_ever"
+
 
 htag_list = [
     "streetstyle",
